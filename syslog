@@ -1,0 +1,18 @@
+Jun 12 08:00:01 web01 systemd[1]: Starting Daily apt upgrade and clean activities...
+Jun 12 08:00:05 web01 CRON[980]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 12 08:01:15 web01 sshd[1023]: Accepted password for hnheri from 192.168.1.50 port 51322 ssh2
+Jun 12 08:03:44 web01 sshd[1045]: Failed password for root from 203.0.113.77 port 44012 ssh2
+Jun 12 08:10:00 web01 kernel: [12345.678] eth0: link up
+Jun 12 08:15:00 web01 apache2[2001]: [notice] Apache/2.4.41 configured -- resuming normal operations
+Jun 12 08:20:11 web01 sudo:   hnheri : TTY=pts/0 ; PWD=/home/hnheri ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 12 08:30:00 web01 systemd[1]: apache2.service: Succeeded.
+Jun 12 08:45:33 web01 sshd[1102]: Failed password for invalid user oracle from 198.51.100.23 port 39812 ssh2
+Jun 12 09:00:00 web01 CRON[1120]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 12 09:02:19 web01 sshd[1150]: Accepted password for hnheri from 192.168.1.50 port 51500 ssh2
+Jun 12 09:15:02 web01 sshd[1170]: Failed password for root from 203.0.113.77 port 44090 ssh2
+Jun 12 09:30:00 web01 useradd[1200]: new user: name=mlemoine, UID=1003, GID=1003, home=/home/mlemoine
+Jun 12 10:00:00 web01 systemd[1]: Starting Daily apt upgrade and clean activities...
+Jun 12 10:05:12 web01 sshd[1250]: Accepted password for mlemoine from 192.168.1.60 port 52100 ssh2
+Jun 12 10:22:41 web01 sshd[1301]: Failed password for invalid user test from 198.51.100.23 port 40011 ssh2
+Jun 12 11:00:00 web01 sudo:   jdupont : TTY=pts/1 ; PWD=/var/www ; USER=root ; COMMAND=/usr/bin/systemctl restart apache2
+Jun 12 11:14:52 web01 sshd[1400]: Accepted password for hnheri from 192.168.1.50 port 51900 ssh2
