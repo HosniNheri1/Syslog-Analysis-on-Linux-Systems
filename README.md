@@ -3,6 +3,7 @@
 **Author:** Hosni Nheri
 **Skills demonstrated:** Linux log analysis, `grep`/`awk` command-line investigation, SSH brute-force detection, data-quality troubleshooting in security logs, Splunk Enterprise (SPL, alerting), SOAR automation with Shuffle (multi-source enrichment, conditional logic, notification), Docker/Swarm troubleshooting, disk/partition management
 
+
 ## Objective
 
 Analyze `/var/log/syslog` and `/var/log/auth.log` on a Linux system to detect suspicious authentication activity — the same first step a SOC analyst takes when investigating a potential intrusion.
