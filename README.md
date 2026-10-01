@@ -3,7 +3,7 @@
 **Author:** Hosni Nheri
 **Skills demonstrated:** Linux log analysis, `grep`/`awk` command-line investigation, SSH brute-force detection, data-quality troubleshooting in security logs, Splunk Enterprise (SPL, alerting), SOAR automation with Shuffle (multi-source enrichment, conditional logic, notification), Docker/Swarm troubleshooting, disk/partition management
 
-[View the portfolio](https://github.com/HosniNheri1/Syslog-Analysis-on-Linux-Systems/blob/main/SSH%20Brute%20Force%20Detection%20%26%20SOAR%20Response.html)
+[View the portfolio](https://github.com/HosniNheri1/Syslog-Analysis-on-Linux-Systems/SSH%20Brute%20Force%20Detection%20%26%20SOAR%20Response.html)
 
 
 ## Objective
